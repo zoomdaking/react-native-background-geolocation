@@ -1,17 +1,17 @@
 {
-  "name": "@mauron85/react-native-background-geolocation",
-  "version": "0.6.3",
+  "name": "@darron1217/react-native-background-geolocation",
+  "version": "0.6.4",
   "description": "optimized background location tracking",
   "main": "./index.js",
   "types": "./index.d.ts",
   "scripts": {
-    "link": "@mauron85/react-native-background-geolocation/scripts/postlink.js",
-    "unlink": "@mauron85/react-native-background-geolocation/scripts/postunlink.js",
+    "link": "@darron1217/react-native-background-geolocation/scripts/postlink.js",
+    "unlink": "@darron1217/react-native-background-geolocation/scripts/postunlink.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mauron85/react-native-background-geolocation.git"
+    "url": "git+https://github.com/darron1217/react-native-background-geolocation.git"
   },
   "keywords": [
     "gps",
@@ -27,6 +27,12 @@
     "ios"
   ],
   "author": "Marian Hello",
+  "maintainers": [
+    {
+      "email": "darron1217@gmail.com",
+      "name": "Darron Park"
+    }
+  ],
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/mauron85/react-native-background-geolocation/issues"
