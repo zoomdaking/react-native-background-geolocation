@@ -1,6 +1,6 @@
 # @darron1217/react-native-background-geolocation
 
-![npm](https://img.shields.io/npm/v/@darron1217/react-native-background-geolocation?style=flat-square)
+[![npm](https://img.shields.io/npm/v/@darron1217/react-native-background-geolocation?style=flat-square)](https://www.npmjs.com/package/@darron1217/react-native-background-geolocation)
 
 > Forked from [@maruon85/react-native-background-geolocation](https://github.com/mauron85/react-native-background-geolocation) due to inactivity.
 
