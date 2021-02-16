@@ -1,9 +1,8 @@
 # @darron1217/react-native-background-geolocation
 
-[![CircleCI](https://circleci.com/gh/mauron85/react-native-background-geolocation/tree/master.svg?style=shield)](https://circleci.com/gh/mauron85/react-native-background-geolocation/tree/master)
-[![issuehunt-shield-v1](issuehunt-shield-v1.svg)](https://issuehunt.io/r/mauron85/react-native-background-geolocation/)
+![npm](https://img.shields.io/npm/v/@darron1217/react-native-background-geolocation?style=flat-square)
 
-Forked from [@maruon85/react-native-background-geolocation](https://github.com/mauron85/react-native-background-geolocation) due to inactivity.
+> Forked from [@maruon85/react-native-background-geolocation](https://github.com/mauron85/react-native-background-geolocation) due to inactivity.
 
 ## Installation
 
