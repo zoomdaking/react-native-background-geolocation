@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/@thekingzoom/react-native-background-geolocation?style=flat-square)](https://www.npmjs.com/package/@thekingzoom/react-native-background-geolocation)
 
-> Forked from [@thekingzoom/react-native-background-geolocation](https://github.com/darron1217/react-native-background-geolocation) due to inactivity.
+> Forked from [@darron1217/react-native-background-geolocation](https://github.com/darron1217/react-native-background-geolocation) due to inactivity.
 
 ## Installation
 
